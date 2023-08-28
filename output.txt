@@ -1,0 +1,155 @@
+Debugging and Troubleshooting
+Go
+
+Web Sockets
+Web Development
+Statistical Modelling
+Deep Learning
+Backend Development
+HTML
+Git
+Wireless Communication
+Data Analysis
+Scala
+Data Visualization
+MongoDB
+3D Modeling and CAD Software
+PostgreSQL
+Extreme Programming (XP)
+Java
+UI/UX Design
+COBOL
+Lua
+C++
+React JS
+Vercel
+PyTorch
+Monday.com
+Big Data
+Project Management
+Swift
+Computer Vision
+SQL
+Scikit-learn
+Test-Driven Development (TDD)
+Rhino
+IoT Protocols
+Natural Language Processing
+Linux
+Microservices
+ClickUp
+Wrike
+JSON and XML
+Computer Graphics
+Socket.io
+Mobile App Development
+Haskell
+JavaScript
+Pascal
+MVC Architecture
+AnyLogic
+Software Engineering
+Google Cloud Computing
+CSS
+MySQL
+Object-Oriented Programming
+MATLAB
+Robotics
+AWS
+GIT
+Object-Oriented Programming (OOP)
+Data Warehousing
+Python
+CATIA
+Data Structures
+Cybersecurity
+Artificial Intelligence
+Dynamic Systems Development Method (DSDM)
+Autodesk Inventor
+Basecamp
+PTC Creo
+Full Stack Development
+Continuous Integration and Continuous Deployment (CI/CD)
+Computer Architecture
+Asana
+IoT
+Lean
+Arena Simulation Software
+Perl
+COMSOL Multiphysics
+ExpressJs
+Ruby
+Crystal
+C
+CPP
+Shell Scripting
+Data Mining
+Cloud Computing Services (e.g., AWS, Azure)
+Parallel Computing
+Network Security
+Siemens NX
+Responsive Web Design
+Docker
+Agile Methodology
+Power BI
+ETL
+API Development
+UI/UX Design Principles
+R
+Hostinger
+Kanban
+NoSQL
+Spark
+Rust
+Web Security
+Octave
+Machine Learning Algorithms
+Matlab
+Computer Networks
+Database Management Systems
+Version Control (e.g., Git)
+Fortran
+Simulation Software
+FastApi
+Blockchain
+SQLite
+Control Systems
+NodeJs
+Excel
+Keras
+Firmware Development
+Unix
+Heroku
+TensorFlow
+RESTful APIs
+Algorithms
+Embedded Systems
+Scrum
+Business Intelligence
+Azure
+Frontend Development
+Tableau
+Hadoop
+Operating Systems
+Numpy
+Oracle
+Firebase
+REST API
+Elastic Search
+Windows
+Data Analytics
+Ansys
+Agile Methodologies
+Kotlin
+Test-Driven Development
+Pandas
+Signal Processing
+FlexSim
+Github
+Kubernetes
+PHP
+Feature-Driven Development (FDD)
+Cryptocurrency
+Machine Learning
+Django
+LabVIEW

@@ -1,0 +1,90 @@
+ABHISHEK ANAND 
+Undergraduate Student 
+Currently pursuing B.Tech in CSE from IIIT Kottayam. 
+abhishekanand20bcs111@iiitkottayam.ac.in 
++91 7700892006 
+Gaya, India 
+EDUCATION 
+Bachelor of Technology 
+Indian Institute of Information
+Technology, Kottayam 
+12/2020 - Present
+, 
+ 
+6.7 
+Computer Science and
+Engineering 
+Intermediate 
+Chinmaya Vidyalaya, Bokaro Steel City 
+05/2017 - 05/2019
+, 
+ 
+96% 
+Physics, Chemistry
+and Mathematics 
+PERSONAL PROJECTS 
+Movie Recommender System 
+Content based Recommender System in Jypter 
+https://github.com/a-anand1703/Movie_Recommender
+ 
+Restaurant Review Analysis 
+Sentiment Analysis of Reviews using Natural Language
+Processing 
+https://github.com/a-anand1703/Resturant_reviews
+ 
+Suduko Solver 
+It can solve any suduko by reading from txt ﬁle or input as
+matrix 
+C++ 
+https://github.com/a-anand1703/Suduko-Solver
+ 
+Churn Rate Prediction 
+Predict the churn rate of employees using Artiﬁcial Neural
+Network 
+https://github.com/a-anand1703/churn-rate-prediction
+ 
+Libray Management System 
+Management System using Python and MYSQL 
+https://github.com/a-anand1703/Library-Management-
+System
+ 
+SKILLS 
+Machine Learning 
+Data Analytics 
+Data Structures 
+Deep Learning 
+Natural Language Processing 
+Object Oriented Programming 
+Algorithm 
+MYSQL 
+Computer networks 
+Self- conﬁdent 
+Hardworking 
+Problem Solver 
+LINKS 
+GitHub 
+https://github.com/a-anand1703
+ 
+Leetcode 
+https://leetcode.com/aanand01703/ 
+Kaggle 
+https://www.kaggle.com/aanand1703 
+LinkedIn 
+https://www.linkedin.com/in/abhishek-anand-27a603217/ 
+LANGUAGES 
+C/C++ 
+Full Professional Proﬁciency 
+Python 
+Full Professional Proﬁciency 
+HTML 
+Full Professional Proﬁciency 
+CSS 
+Full Professional Proﬁciency 
+Javascript 
+Limited Working Proﬁciency 
+INTERESTS 
+Solving Mathematics Problems 
+Powerlifting 
+Sketching 
+Courses 
+Courses 
